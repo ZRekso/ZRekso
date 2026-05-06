@@ -18,10 +18,12 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <br>
+  <!-- Java & Logiciel -->
   <img src="https://img.shields.io/badge/Java%20(POO)-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <br>
+  <!-- Système & BD -->
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
@@ -50,6 +52,7 @@
 | **[FilmInfo](https://github.com/ZRekso/FilmInfo)** | Recherche de données cinématographiques (OMDb). | JS, API, HTML |
 | **[Vel-Home](https://github.com/ZRekso/Vel-Home)** | Site d'entreprise fictive (Projet SAE). | HTML, CSS |
 | **[SpeedTyping](https://github.com/ZRekso/Jeu)** | Jeu de rapidité au clavier. | JavaScript |
+| **[Light-off](https://github.com/ZRekso/light-off)** | Jeu de réflexion et de logique (éteindre la grille). | JavaFX, Gradle |
 
 ---
 
