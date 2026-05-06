@@ -42,7 +42,7 @@
 
 ---
 
-### 🚀 Mes Projets Principaux
+### 🚀 Mes Projets
 
 | Projet | Description | Stack |
 | :--- | :--- | :--- |
