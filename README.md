@@ -29,7 +29,7 @@
 
 ### 💻 Logiciels & Outils
 <p align="left">
-  <img src="https://img.shields.io/badge/IntelliJ%-0FE2857?style=flat-square&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ-0FE2857?style=flat-square&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/WebStorm-07C3FF?style=flat-square&logo=WebStorm&logoColor=white" />
   <img src="https://img.shields.io/badge/Scene%20Builder-000000?style=flat-square&logo=java&logoColor=orange" />
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
