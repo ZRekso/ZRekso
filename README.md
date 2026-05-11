@@ -57,4 +57,3 @@
 
 ### 📫 Me contacter
 * **Email :** [nathansalome.pro@outlook.com](mailto:nathansalome.pro@outlook.com)
-* **GitHub :** [ZRekso](https://github.com/ZRekso)
