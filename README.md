@@ -57,4 +57,5 @@
 ---
 
 ### 📫 Me contacter
+Si mon profil vous intéresse (stage, alternance), n’hésitez pas à me contacter :
 * **Email :** [nathansalome.pro@outlook.com](mailto:nathansalome.pro@outlook.com)
