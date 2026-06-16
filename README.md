@@ -53,7 +53,7 @@
 | **[SpeedTyping](https://github.com/ZRekso/Jeu)** | Jeu de rapidité au clavier. | JavaScript |
 | **[Light-off](https://github.com/ZRekso/light-off)** | Jeu de réflexion et de logique (éteindre la grille). | JavaFX, Gradle |
 
-- Mon App (ADE) : [https://edutime-1tj0.onrender.com/ ](https://edutime-tau.vercel.app/)
+- Mon App (ADE) : https://edutime-tau.vercel.app/
 ---
 
 ### 📫 Me contacter
