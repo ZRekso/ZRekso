@@ -1,4 +1,4 @@
-<h1 align="center">Salut, moi c'est Nathan ! 👋</h1>
+<h1 align="center">Nathan Salomé</h1>
 
 <p align="center">
   <strong>Étudiant en 1ère année de BUT Informatique</strong><br>
