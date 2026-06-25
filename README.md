@@ -1,7 +1,7 @@
 <h1 align="center">Nathan Salomé</h1>
 
 <p align="center">
-  <strong>Étudiant en 1ère année de BUT Informatique</strong><br>
+  <strong>Étudiant en 2ème année de BUT Informatique</strong><br>
 </p>
 
 <p align="center">
