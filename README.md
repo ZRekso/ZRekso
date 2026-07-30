@@ -47,7 +47,8 @@
 
 | Projet | Description | Stack |
 | :--- | :--- | :--- |
-| **[SpotiPasFy](https://github.com/ZRekso/SpotiPasFy)** | Lecteur musical utilisant l'API Jamendo. | JS, API, CSS |
+| **[ÉduTime](https://edutime-tau.vercel.app/)** | Emploi du temps en parsant des fichiers iCal | HTML, CSS, Ical |
+| **[SpotiPasFy](https://github.com/ZRekso/SpotiPasFy)** | Lecteur musical utilisant l'API Jamendo. | React, API, CSS |
 | **[FilmInfo](https://github.com/ZRekso/FilmInfo)** | Recherche de données cinématographiques (OMDb). | JS, API, HTML |
 | **[Vel-Home](https://github.com/ZRekso/Vel-Home)** | Site d'entreprise fictive (Projet SAE). | HTML, CSS |
 | **[SpeedTyping](https://github.com/ZRekso/Jeu)** | Jeu de rapidité au clavier. | JavaScript |
