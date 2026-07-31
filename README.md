@@ -49,10 +49,11 @@
 | :--- | :--- | :--- |
 | **[ÉduTime](https://edutime-tau.vercel.app/)** | Emploi du temps en parsant des fichiers iCal | HTML, CSS, Ical |
 | **[SpotiPasFy](https://github.com/ZRekso/SpotiPasFy)** | Lecteur musical utilisant l'API Jamendo. | React, API, CSS |
+| **[Light-off](https://github.com/ZRekso/light-off)** | Jeu de réflexion et de logique (éteindre la grille). | JavaFX, Gradle |
+| **[GestionCabinetMedical](https://github.com/ZRekso/GestionCabinetMedical)** | Application de gestion (Patients, Médecins..)| JavaFX, Gradle |
 | **[FilmInfo](https://github.com/ZRekso/FilmInfo)** | Recherche de données cinématographiques (OMDb). | JS, API, HTML |
 | **[Vel-Home](https://github.com/ZRekso/Vel-Home)** | Site d'entreprise fictive (Projet SAE). | HTML, CSS |
 | **[SpeedTyping](https://github.com/ZRekso/Jeu)** | Jeu de rapidité au clavier. | JavaScript |
-| **[Light-off](https://github.com/ZRekso/light-off)** | Jeu de réflexion et de logique (éteindre la grille). | JavaFX, Gradle |
 
 - Mon App (ADE) : https://edutime-tau.vercel.app/
 ---
