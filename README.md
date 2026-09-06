@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍-France-red" alt="Location">
   <img src="https://img.shields.io/badge/🎓-BUT%20Informatique-blue" alt="Études">
 </p>
 
