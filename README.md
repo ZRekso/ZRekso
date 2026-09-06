@@ -27,6 +27,8 @@
 
 **🌱 En cours d'apprentissage :**
 <p align="left">
+  <img src="https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/Laravel-grey?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
   <img src="https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vite-grey?style=for-the-badge&logo=vite&logoColor=646CFF" />
 </p>
