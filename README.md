@@ -64,8 +64,27 @@
 | **[SpeedTyping](https://github.com/ZRekso/Jeu)** | Jeu de rapidité au clavier. | JavaScript |
 
 - Mon (ADE) : https://edutime-tau.vercel.app/
+
+---
+
+### 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZRekso&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZRekso&show_icons=true&locale=fr&hide_border=true" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZRekso&layout=compact&locale=fr&hide_border=true" alt="Langages les plus utilisés" />
+</p>
+
 ---
 
 ### 📫 Me contacter
-Si mon profil vous intéresse (stage, alternance), n’hésitez pas à me contacter :
+<p align="center">
+  💬 <em>Ouvert aux opportunités de stage / alternance en développement</em>
+</p>
+
+Si mon profil vous intéresse, n’hésitez pas à me contacter :
 * **Email :** [nathansalome.pro@outlook.com](mailto:nathansalome.pro@outlook.com)
+  
