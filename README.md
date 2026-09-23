@@ -12,7 +12,7 @@
 
 ### 🛠 Mes Compétences
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,py,bash,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,py,bash,cpp,arduino,postgres" />
   <br>
   <img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=java&logoColor=white" />
 </p>
@@ -26,7 +26,7 @@
 
 ### 💻 Logiciels & Outils
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=idea,gradle,vscode,webstorm,git,sqlite" />
+  <img src="https://skillicons.dev/icons?i=idea,eclipse,gradle,vscode,webstorm,git,github,gitlab,sqlite" />
   <br>
   <img src="https://img.shields.io/badge/Scene%20Builder-000000?style=flat-square&logo=java&logoColor=orange" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
@@ -46,7 +46,6 @@
 | **[FilmInfo](https://github.com/ZRekso/FilmInfo)** | Recherche de données cinématographiques (OMDb). | JS, API, HTML |
 | **[Vel-Home](https://github.com/ZRekso/Vel-Home)** | Site d'entreprise fictive (Projet SAE). | HTML, CSS |
 | **[SpeedTyping](https://github.com/ZRekso/Jeu)** | Jeu de rapidité au clavier. | JavaScript |
-
 
 ---
 
