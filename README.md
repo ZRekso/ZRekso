@@ -12,39 +12,24 @@
 
 ### 🛠 Mes Compétences
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,py,bash,postgres" />
   <br>
-  <img src="https://img.shields.io/badge/Java%20(POO)-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 **🌱 En cours d'apprentissage :**
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=php&logoColor=777BB4" />
-  <img src="https://img.shields.io/badge/Laravel-grey?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
-  <img src="https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-grey?style=for-the-badge&logo=vite&logoColor=646CFF" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,vite" />
 </p>
 
 ---
 
 ### 💻 Logiciels & Outils
 <p align="left">
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scene%20Builder-000000?style=flat-square&logo=java&logoColor=orange" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=idea,gradle,vscode,webstorm,git,sqlite" />
   <br>
+  <img src="https://img.shields.io/badge/Scene%20Builder-000000?style=flat-square&logo=java&logoColor=orange" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Looping-F5F5F5?style=flat-square&logoColor=black" />
 </p>
 
@@ -84,6 +69,5 @@
   💬 <em>Ouvert aux opportunités de stage / alternance en développement</em>
 </p>
 
-Si mon profil vous intéresse, n’hésitez pas à me contacter :
+Si mon profil vous intéresse, n'hésitez pas à me contacter :
 * **Email :** [nathansalome.pro@outlook.com](mailto:nathansalome.pro@outlook.com)
-  
