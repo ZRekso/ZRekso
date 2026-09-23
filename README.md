@@ -12,7 +12,7 @@
 
 ### 🛠 Mes Compétences
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,py,bash,cpp,arduino,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,py,bash,arduino,postgres" />
   <br>
   <img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=java&logoColor=white" />
 </p>
