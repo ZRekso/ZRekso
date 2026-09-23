@@ -13,7 +13,8 @@
 ### 🛠 Mes Compétences
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,py,bash,postgres" />
-  <img src="icons/javafx.svg" width="48" height="48" alt="JavaFX" title="JavaFX" />
+  <br>
+  <img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 **🌱 En cours d'apprentissage :**
@@ -26,9 +27,10 @@
 ### 💻 Logiciels & Outils
 <p align="left">
   <img src="https://skillicons.dev/icons?i=idea,gradle,vscode,webstorm,git,sqlite" />
-  <img src="icons/scenebuilder.svg" width="48" height="48" alt="Scene Builder" title="Scene Builder" />
-  <img src="icons/wireshark.svg" width="48" height="48" alt="Wireshark" title="Wireshark" />
-  <img src="icons/looping.svg" width="48" height="48" alt="Looping" title="Looping" />
+  <br>
+  <img src="https://img.shields.io/badge/Scene%20Builder-000000?style=flat-square&logo=java&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looping-F5F5F5?style=flat-square&logoColor=black" />
 </p>
 
 ---
