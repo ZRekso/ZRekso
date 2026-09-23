@@ -13,8 +13,7 @@
 ### 🛠 Mes Compétences
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,py,bash,postgres" />
-  <br>
-  <img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="icons/javafx.svg" width="48" height="48" alt="JavaFX" title="JavaFX" />
 </p>
 
 **🌱 En cours d'apprentissage :**
@@ -27,10 +26,9 @@
 ### 💻 Logiciels & Outils
 <p align="left">
   <img src="https://skillicons.dev/icons?i=idea,gradle,vscode,webstorm,git,sqlite" />
-  <br>
-  <img src="https://img.shields.io/badge/Scene%20Builder-000000?style=flat-square&logo=java&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looping-F5F5F5?style=flat-square&logoColor=black" />
+  <img src="icons/scenebuilder.svg" width="48" height="48" alt="Scene Builder" title="Scene Builder" />
+  <img src="icons/wireshark.svg" width="48" height="48" alt="Wireshark" title="Wireshark" />
+  <img src="icons/looping.svg" width="48" height="48" alt="Looping" title="Looping" />
 </p>
 
 ---
@@ -48,19 +46,6 @@
 | **[SpeedTyping](https://github.com/ZRekso/Jeu)** | Jeu de rapidité au clavier. | JavaScript |
 
 - Mon (ADE) : https://edutime-tau.vercel.app/
-
----
-
-### 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZRekso&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZRekso&show_icons=true&locale=fr&hide_border=true" alt="Statistiques GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZRekso&layout=compact&locale=fr&hide_border=true" alt="Langages les plus utilisés" />
-</p>
 
 ---
 
