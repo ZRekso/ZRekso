@@ -47,7 +47,6 @@
 | **[Vel-Home](https://github.com/ZRekso/Vel-Home)** | Site d'entreprise fictive (Projet SAE). | HTML, CSS |
 | **[SpeedTyping](https://github.com/ZRekso/Jeu)** | Jeu de rapidité au clavier. | JavaScript |
 
-- Mon (ADE) : https://edutime-tau.vercel.app/
 
 ---
 
