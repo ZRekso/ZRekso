@@ -1,8 +1,12 @@
-<h1 align="center">Nathan Salomé</h1>
 
-<p align="center">
-  <strong>Étudiant en 2ème année de BUT Informatique</strong><br>
-</p>
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:020617,40:0B3D91,70:005BFF,100:00D4FF&text=Nathan%20Salom%C3%A9&fontColor=FFFFFF&fontSize=58&fontAlignY=40&desc=D%C3%A9veloppeur%20d%27application%20%2F%20web&descSize=19&descAlignY=60&animation=twinkling&stroke=00BFFF&strokeWidth=1"
+    width="100%"
+    alt="Nathan Salomé — Développeur d'application / web"
+  />
+</div>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎓-BUT%20Informatique-blue" alt="Études">
