@@ -1,11 +1,7 @@
 
 
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,25:061A35,65:0647A6,100:00BFFF&height=240&section=header&text=Nathan%20Salom%C3%A9&fontSize=58&fontColor=F0F7FF&fontAlignY=38&desc=D%C3%A9veloppeur%20d%27application%20%2F%20web&descSize=19&descAlignY=58&animation=twinkling&stroke=087BFF&strokeWidth=1"
-    width="100%"
-    alt="Nathan Salomé — Développeur d'application / web"
-  />
+  <img src="./header.svg" width="100%" alt="Nathan Salomé — Développeur d'application / web" />
 </div>
 
 
