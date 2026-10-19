@@ -1,11 +1,13 @@
 
+
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:020617,40:0B3D91,70:005BFF,100:00D4FF&text=Nathan%20Salom%C3%A9&fontColor=FFFFFF&fontSize=58&fontAlignY=40&desc=D%C3%A9veloppeur%20d%27application%20%2F%20web&descSize=19&descAlignY=60&animation=twinkling&stroke=00BFFF&strokeWidth=1"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0B3D91,100:00BFFF&height=200&section=header&text=Nathan%20Salom%C3%A9&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=D%C3%A9veloppeur%20d%27application%20%2F%20web&descSize=18&descAlignY=60&animation=fadeIn"
     width="100%"
     alt="Nathan Salomé — Développeur d'application / web"
   />
 </div>
+
 
 
 <p align="center">
