@@ -5,8 +5,6 @@
 </div>
 
 
----
-
 ### 🛠 Mes Compétences
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,py,bash,arduino,postgres" />
