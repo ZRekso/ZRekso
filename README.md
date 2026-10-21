@@ -7,14 +7,14 @@
 
 ### 🛠 Mes Compétences
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,py,bash,arduino,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,py,bash,arduino,postgres,php" />
   <br>
   <img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 **🌱 En cours d'apprentissage :**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,vite" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,vite" />
 </p>
 
 ---
