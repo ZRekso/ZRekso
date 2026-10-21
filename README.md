@@ -14,7 +14,7 @@
 
 **🌱 En cours d'apprentissage :**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,react,vite" />
+  <img src="https://skillicons.dev/icons?i=laravel,react" />
 </p>
 
 ---
